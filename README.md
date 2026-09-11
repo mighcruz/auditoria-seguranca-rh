@@ -1,9 +1,9 @@
-# Auditoria de Segurança da Informação e Gestão de Riscos de TI
+#### Auditoria de Segurança da Informação e Gestão de Riscos de TI
+<p align="center">  <img src="docs/capa.png" alt="Banner do projeto width="1000">
+  
+Avaliação prática da efetividade de controles de segurança, mapeamento de ativos críticos e estruturação de planos de mitigação alinhados à ISO 27002 e LGPD em contexto empresarial real.
 
-> Avaliação prática da efetividade de controles de segurança, mapeamento de ativos críticos e estruturação de planos de mitigação alinhados à ISO 27002 e LGPD em contexto empresarial real.
-
-**Status:** Concluído  
-**Natureza:** Acadêmico Aplicado em Contexto Empresarial Real (com dados sanitizados para portfólio)
+#### **Natureza:** Acadêmico / Empresarial Real ✔
 
 ---
 
