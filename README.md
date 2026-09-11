@@ -7,12 +7,6 @@
 
 ---
 
-## 🔒 Nota de Confidencialidade
-
-*Tratando-se de uma auditoria baseada em um contexto corporativo real, todos os dados sensíveis, nomes da organização, endereços IP, topologias de rede específicas, CVEs, portas e vulnerabilidades identificadas foram rigorosamente anonimizados, sanitizados ou substituídos por dados fictícios neste repositório. O objetivo é demonstrar a metodologia e a capacidade analítica sem comprometer a segurança ou a confidencialidade da organização real.*
-
----
-
 ## Visão Geral
 
 Este projeto consistiu na execução de uma auditoria técnica e processual de Segurança da Informação, com foco em processos e ativos relacionados ao departamento de Recursos Humanos de uma organização de grande porte. O trabalho avaliou a implementação e efetividade dos controles de segurança, mapeou ativos críticos e identificou riscos residuais, culminando na entrega de um plano de mitigação estruturado, alinhado às melhores práticas da ISO/IEC 27002 e da LGPD.
@@ -49,12 +43,25 @@ O projeto foi conduzido em fases estruturadas:
 6. **Tratamento do Risco:** Elaboração do plano de melhoria contínua e definição de ações corretivas.
 
 ## Frameworks e Boas Práticas
+<!-- Opcao 2: Estilo "flat-square" (Compacto e minimalista) -->
+![ISO 27002](https://img.shields.io/badge/ISO%20IEC%2027002-Security%20Controls-00539C?style=flat-square)
+![LGPD](https://img.shields.io/badge/LGPD-Data%20Protection-0078D4?style=flat-square)
+![Least Privilege](https://img.shields.io/badge/Least%20Privilege-Access%20Control-C53030?style=flat-square)
+
 
 - **ISO/IEC 27002:** Utilizado como lista de verificação base para a auditoria de conformidade dos controles de segurança da informação.
 - **LGPD (Lei Geral de Proteção de Dados):** Aplicado como requisito normativo para a classificação e proteção de dados pessoais relacionados aos colaboradores.
 - **Princípio do Menor Privilégio:** Diretriz central aplicada na análise de acessos e nas recomendações de hardening.
 
+
 ## Tecnologias e Ferramentas
+
+<!-- Opcao 2: Estilo "flat-square" (Compacto e minimalista) -->
+
+![NMAP](https://img.shields.io/badge/NMAP-Network%20Scanner-005288?style=flat-square)
+![MxToolbox](https://img.shields.io/badge/MxToolbox-DNS%20%26%20Network-0072C6?style=flat-square)
+![Attack Surface](https://img.shields.io/badge/Attack%20Surface-Recon-D97706?style=flat-square)
+![Risk Matrix](https://img.shields.io/badge/Risk%20Matrix-Documentation-4B5563?style=flat-square)
 
 - **Análise e Reconhecimento:** NMAP, MxToolbox e ferramentas de reconhecimento de superfície de ataque (utilizadas estritamente para análise de exposição pública autorizada e dentro do escopo definido).
 - **Documentação e Modelagem:** Ferramentas de diagramação de topologia e planilhas de matriz de risco e valoração de ativos.
@@ -97,7 +104,6 @@ A solução entregue foi um modelo de avaliação de risco híbrido. Ele combino
 - [Link para o Modelo de Mapa de Calor (Heat Map) e Valoração de Ativos]
 
 ---
-
 ## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguelhcruz)
@@ -110,3 +116,9 @@ A solução entregue foi um modelo de avaliação de risco híbrido. Ele combino
 [⬅️ Voltar ao Perfil Principal](https://github.com/mighcruz) 
 
 [📂 Voltar ao Hub Central de Projetos](https://github.com/mighcruz/portfolio-ti)
+
+---
+
+###### 🔒 Nota de Confidencialidade
+
+###### *Tratando-se de um projeto desenvolvido em ambiente de simulação corporativa e laboratório de testes, quaisquer topologias de rede, endereços IP, credenciais de acesso ou configurações específicas mencionadas na documentação original foram omitidas ou sanitizadas neste repositório, preservando as boas práticas de segurança da informação.*
